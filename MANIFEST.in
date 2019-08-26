@@ -1,0 +1,4 @@
+include *.txt
+include *.png
+include README.md
+recursive-include wordcli *.py
