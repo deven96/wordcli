@@ -49,7 +49,3 @@ setuptools.setup(
     include_package_data=True,
     zip_safe=True,
 )
-
-# nltk should be available now
-from wordcli.utils import download_corpus
-download_corpus()

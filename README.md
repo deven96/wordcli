@@ -1,6 +1,6 @@
 # WordCLI
 
-<span> <a href="https://travis-ci.com/deven96/wordcli"><img src="https://travis-ci.com/deven96/wordcli.svg" alt="Build Status" height="18"></a> <a href="https://opensource.org/licenses/GNU"><img src="https://img.shields.io/badge/License-GNU-yellow.svg" alt="License: GNU" height="18"></a> <a href="https://badge.fury.io/py/wordcli"><img src="https://badge.fury.io/py/R3con1z3r.svg" alt="PyPI version" height="18"></a> </span>
+<span> <a href="https://travis-ci.com/deven96/wordcli"><img src="https://travis-ci.com/deven96/wordcli.svg" alt="Build Status" height="18"></a> <a href="https://opensource.org/licenses/GNU"><img src="https://img.shields.io/badge/License-GNU-yellow.svg" alt="License: GNU" height="18"></a> <a href="https://badge.fury.io/py/wordcli"><img src="https://badge.fury.io/py/wordcli.svg" alt="PyPI version" height="18"></a> </span>
 
 Simple command line dictionary that harnesses the power of NLTK and WordNET
 
